@@ -1,0 +1,88 @@
+---
+title: "Clase 2.1: Política económica en Chile "
+subtitle: "Economía del sector público"
+description: Esta presentación muestra los puntos principales de la historia económica de Chile según Patricio Meller y Ricardo Ffrench-Davis. Considera las visiones imperantes y las políticas aplicadas, y sus resultados finales. Discute la dificultad de hacer política económica en la práctica, y los roles imperantes del sector público en cada ocasión.
+date: last-modified #now #today
+author:
+    name: David López Moreno
+    affiliation: Universidad Mayor
+format: 
+  revealjs:
+    theme: solarized
+    chalkboard: true
+#    logo: logo_r.png
+lang: Es-es
+---
+
+## Repaso clase anterior {.smaller}
+
+Los roles de la economía son al menos 3 (Musgrave)
+
+-   Estabilización
+
+-   Asignación
+
+-   Distribución
+
+. . .
+
+Otros posibles roles
+
+-   Fomento productivo
+
+-   Desarrollo económico
+
+. . .
+
+Preguntas centrales de la economía del sector público (Stiglitz & Rosengard, 2016)
+
+-   ¿Qué debe producirse?
+
+-   ¿Cómo debe producirse?
+
+-   ¿Para quién debe producirse?
+
+-   ¿Cómo se toman estas decisiones?
+
+## Clase de hoy
+
+<p> </p>
+
+Volver a la pregunta de los roles del Estado, centrados en la política económica de Chile a través de su historia.
+
+<p> </p>
+
+. . .
+
+Analizar la historia económica de Chile en base a las preguntas sobre economía del sector público de Stiglitz & Rosengard.
+
+## Autores de esta semana {.smaller}
+
+::: columns
+
+::: {.column width="62%"}
+**Patricio Meller:** Ingeniero civil de la Universidad de Chile, Máster en Ciencias y Doctor en Economía de la Universidad de California, Berkeley. Ha sido director de la empresa estatal de cobre Codelco, presidente del Consejo Asesor Presidencial sobre trabajo y equidad, presidente de Fundación Chile y autor de numerosas publicaciones sobre economía, minería, comercio internacional, e innovación tecnológica. Actualmente es el director de proyectos de Cieplan y profesor titular del Departamento de Ingeniería Industrial de la Universidad de Chile.
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="30%"}
+![](https://assets.megamediaradios.fm/sites/2/2020/08/10604_1_5f3125819df34.jpg)
+:::
+:::
+
+## Autores de esta semana {.smaller}
+
+::: columns
+::: {.column width="30%"}
+![](https://econ.uchile.cl/uploads/usuario/ficha_3614df9eaa50088fd1d7b0338576d62f6f0ae5fd.jpg)
+:::
+
+::: {.column width="3%"}
+:::
+
+::: {.column width="62%"}
+**Ricardo Ffrench-Davis:** Doctor en Economía y Magister de la Universidad de Chicago e Ingeniero Comercial de la Pontificia Universidad Católica de Chile. Ha sido Director de Estudios y Economista Jefe del Banco Central de Chile (1964-1970 y 1990-1992); cofundador y director de la Corporación de Investigaciones Económicas para Latino América (CIEPLAN). Asesor Regional Principal de CEPAL en 1992-2004. Es profesor titular en la Facultad de Economía de la Universidad de Chile. Galardonado con el Premio Nacional de Humanidades y Ciencias Sociales en 2005.
+:::
+:::

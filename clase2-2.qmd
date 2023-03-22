@@ -1,0 +1,156 @@
+---
+title: "Clase 2.2: Dimensiones del sector público chileno y su medición"
+subtitle: "Economía del sector público"
+description: En esta clase discutimos las dimensiones del sector público en base a lo descrito por Stiglitz & Rosengard (2016), Capítulo 2. Utilizamos los conceptos descritos para analizar la economía del sector público a nivel nacional.
+date: last-modified #now #today
+author:
+    name: David López Moreno
+    affiliation: Universidad Mayor
+format: 
+  revealjs:
+    theme: solarized
+    chalkboard: true
+#    logo: logo_r.png
+lang: Es-es
+---
+
+## Qué veremos {.smaller}
+
+::: columns
+
+::: {.column width="45%"}
+- Definición económica de Estado
+
+- Actividades del Estado
+    - Marco jurídico
+    - Producción de bienes y servicios
+    - Regulación de la actividad privada
+    - Compras públicas
+    - Redistribución
+
+- Tamaño del sector público chileno
+    - Crecimiento del gasto
+    - Comparaciones OCDE
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+- Ingresos principales del sector público chileno
+    - Impuestos principales
+    - Ingresos por impuestos
+
+- Deuda pública y financiamiento del déficit
+    - Deuda pública hoy
+    - Superávit y déficit fiscal
+:::
+
+:::
+
+# Definición económica de Estado {background="teal"}
+
+## ¿Qué es el Estado... económicamente?
+
+- El `Estado` suele ser definido en como una forma de organización que regula la vida de los miembros de una cierta comunidad en un territorio nacional definido.
+
+. . .
+
+- Lo cierto es que el `Estado es, en la práctica, un conjunto complejo de distintos cuerpos administrativos` que operan dentro de límites más o menos definidos y en base a los principios definidos por la Constitución.
+
+## ¿Qué es el Estado... económicamente? {transition="fade"}
+
+![](https://www.icarito.cl/wp-content/uploads/2010/03/710198.jpg){fig-align="center" width=400}
+
+
+
+## ¿Qué es el Estado... económicamente? {transition="fade"}
+
+![](https://s2.studylib.es/store/data/009133761_1-d99eee5c82ffa2d9cd4a795ea598259f-768x994.png){fig-align="center"}
+
+## Una posible definición económica de `Estado` {.smaller}
+
+Conjunto de instituciones que, colectivamente, `delinean`, `regulan`, `estabilizan` y `permiten el proceso económico` de una comunidad política soberana, en pos del `bienestar general` de la comunidad, sus individuos y diversos grupos.
+
+. . .
+
+<p> </p>
+
+. . .
+
+Bajo ciertas condiciones de pertinencia económica y político-histórica, `el Estado puede incluso producir algunos bienes y servicios, y proveer a la ciudadanía de éstos`.
+
+. . .
+
+<p> </p>
+
+. . .
+
+En una `sociedad democrática`, estas acciones están, al menos parcialmente, `controladas por la ciudadanía`, ya sea de manera directa o a través de órganos definidos por actores previamente elegidos.
+
+# Actividades del Estado {background="teal"}
+
+## Marco jurídico
+
+Estado pone las `reglas del juego` de la economía.
+
+<p> </p>
+
+::: {.fragment .fade-in}
+- Protección del derecho(s) de propiedad
+:::
+::: {.fragment .fade-in}
+- Cumplimientos de y limitaciones a contratos
+:::
+::: {.fragment .fade-in}
+- Derecho de quiebras
+:::
+::: {.fragment .fade-in}
+- Regulación de la competencia
+:::
+
+::: {.fragment .fade-in}
+**`¿Se te ocurre algún otro ejemplo?`**
+:::
+
+## Producción de bienes y servicios {.smaller}
+
+Bajo ciertas condiciones `el Estado puede producir bienes y servicios`, ya sea por su propia cuenta o a través de alianzas público-privadas.
+
+::: columns
+
+::: {.column width="45%" .fragment .fade-in}
+<p> </p>
+- Infraestructura pública
+- Medios de comunicación
+- Banca y servicios financieros
+- Servicios básicos
+- Derechos sociales (educación, salud, vivienda)
+- _Commanding Heights_ (e.g. Cobre)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%" .fragment .fade-in}
+**Ejemplos**
+
+- TVN
+
+- Metro S. A.
+
+- BancoEstado
+
+- Codelco
+
+- Parquemet
+
+- SNSS
+
+- `¿Se te ocurre algún otro ejemplo?`
+:::
+
+:::
+
+## Regulación de la actividad privada
+
